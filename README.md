@@ -1,7 +1,7 @@
 
-# Vini Mini 🥜 - Living Styleguide
+# Vini Mini 🥜 - Wireflow
 
-![image](https://user-images.githubusercontent.com/112861261/202513222-da942869-c7f0-4247-a1bd-214f311c280d.png)
+![20221207_120927771_iOS](https://user-images.githubusercontent.com/112856683/206176413-ac891277-88f7-417c-972f-381ce52c3d8b.jpg)
 
 ## 📚 Inhoudsopgave
 
@@ -11,11 +11,11 @@
 * [Licentie](#licentie)
 
 ## 🗒️ Beschrijving
-<strong>Living Styleguide 🖌️:</strong>
+<strong>Wireflow 🖌️:</strong>
 
 <strong>Opdrachtgever Vini Mini 🥜:</strong>
 <ul>
-<li>Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.</li>
+<li>Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa. Om de website levendiger te maken heb ik een interactieve actie toegevoegd.</li>
 </ul>
 
 ## 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
@@ -24,18 +24,8 @@ Lijst met gebruikte tools, technieken en communicatie middelen.
 
 <ul>
 <li><strong>TOOLS 🧰:</strong></li>
-<li>VSCode</li>
-<li>Miro</li>
-<li>Illustrator</li>
 <li>Pen & Papier</li>
 <li>Laptop</li>
-</ul>
-
-<ul>
-<li><strong>GEBRUIKTE TECHNIEKEN 🛠️:</strong></li>
-<li>HTML</li>
-<li>CSS</li>
-<li>Javascript (menu)</li>
 </ul>
 
 <ul>
@@ -49,13 +39,9 @@ Lijst met gebruikte tools, technieken en communicatie middelen.
 
 <ul>
 
-<li>https://miro.com/</li>
-
 <li>https://vinimini.nl/</li>
 
 <li>https://github.com//</li>
-
-<li>https://www.google.nl/</li>
 
 </ul>
 
