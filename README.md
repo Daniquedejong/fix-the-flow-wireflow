@@ -1,20 +1,67 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Vini Mini 🥜 - Living Styleguide
 
-## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+![image](https://user-images.githubusercontent.com/112861261/202513222-da942869-c7f0-4247-a1bd-214f311c280d.png)
 
-## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+## 📚 Inhoudsopgave
 
-## Wireflow
-<!-- Toon de wireflow -->
+* [Beschrijving](#beschrijving)
+* [Kenmerken](#kenmerken)
+* [Bronnen](#bronnen)
+* [Licentie](#licentie)
 
- 
+## 🗒️ Beschrijving
+<strong>Living Styleguide 🖌️:</strong>
 
-## Licentie
+<strong>Opdrachtgever Vini Mini 🥜:</strong>
+<ul>
+<li>Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.</li>
+</ul>
+
+## 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
+
+Lijst met gebruikte tools, technieken en communicatie middelen.
+
+<ul>
+<li><strong>TOOLS 🧰:</strong></li>
+<li>VSCode</li>
+<li>Miro</li>
+<li>Illustrator</li>
+<li>Pen & Papier</li>
+<li>Laptop</li>
+</ul>
+
+<ul>
+<li><strong>GEBRUIKTE TECHNIEKEN 🛠️:</strong></li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript (menu)</li>
+</ul>
+
+<ul>
+<li><strong>COMMUNICATIE MIDDELEN 🗣️:</strong></li>
+<li>Microsoft Teams</li>
+</ul>
+
+## 💻 Gebruik
+
+## 🌐 Bronnen
+
+<ul>
+
+<li>https://miro.com/</li>
+
+<li>https://vinimini.nl/</li>
+
+<li>https://github.com//</li>
+
+<li>https://www.google.nl/</li>
+
+</ul>
+
+
+
+## 🔒 Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
